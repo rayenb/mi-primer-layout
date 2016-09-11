@@ -1,0 +1,117 @@
+
+ul {
+	margin-left: 35px;
+}
+.vertical {
+	border-right: 2px solid black;
+}
+li {
+	display: table-cell;
+	padding: 0px 30px;	
+} 
+a {
+	text-decoration: none;
+	font-size: 23px;
+	color: black;
+}
+header hr {
+	border: 1px solid black;
+	margin: 20px 0px;
+}
+.fondo {
+	background-image: url(../img/grupal.jpg);
+	max-width: 100%;
+	height: 550px;
+}
+.parrafo div {
+	width: 500px;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 30px;
+}
+.parrafo hr {
+	width: 100px;
+	border: 1px solid #696969;
+	margin: 30px 45%;
+	text-align: center;
+}
+.coder1 {
+	background-image: url(../img/profile-1.png);
+}
+.coder2 {
+	background-image: url(../img/profile-2.png);
+}
+.coder3 {
+	background-image: url(../img/profile-3.png);
+}
+.coder4 {
+	background-image: url(../img/profile-4.png);
+}
+.coder5 {
+	background-image: url(../img/profile-5.png);
+}
+.coder6 {
+	background-image: url(../img/profile-6.png);
+}
+.fotos hr {
+	width: 100px;
+	border: 2px solid black;
+	margin: 30px 0px;
+}
+.fotos .col-4 {
+	background-repeat: no-repeat;
+	max-width: 100%;
+	padding-top: 180px;
+	padding-left: 80px;
+	margin-bottom: 60px;
+}
+span {
+	color: white;
+}
+.externo {
+	padding: 100px;
+}
+.contenedor {
+	border: 1px solid #696969; 
+	padding: 50px;
+}
+.nombre {
+	text-align: center;
+}
+.nombre img {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+} 
+.nombre p {
+	margin: 30px;
+	font-size: 20px;
+}
+.nombre h1 {
+	font-size: 40px;
+}
+.habilidades div {
+	background-color: #787878;
+	padding: 15px;
+    margin: 30px;
+    color: white;
+}
+.un {
+	width: 600px;
+}
+.dos {
+	width: 400px;
+}
+.tres {
+	width: 200px;
+}
+.portafolio img {
+	max-width: 100%;
+	margin-right: 50px;
+}
+
+
+
+
+
+
